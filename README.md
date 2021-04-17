@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/TaiStudio/Sofia/main/LOGO_SOFIA.png" width="45%" align="center"></img><br />
 </p>
+<p align='center'>
+  <img src="https://img.shields.io/github/downloads/TaiStudio/Sofia/total">
+  <img src="https://img.shields.io/github/v/release/TaiStudio/Sofia">
+  <img src="https://img.shields.io/website?url=http%3A%2F%2Ftai-studio.ml%2F">
+</p>
 
 [FR] Sofia est un logiciel pour personnaliser son status discord. <br />
 [EN] Sofia is a software to customize your status discord.
